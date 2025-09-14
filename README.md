@@ -1,4 +1,4 @@
-# 🤖 NGO-Chatbot
+# NGO-Chatbot using RAG Ethics
 
 A **smart, AI-powered chatbot** built for NGOs – designed to **only answer relevant queries**, maintain chat history, and allow users to **export their conversations as PDFs** 📝.  
 Built using **Next.js, TypeScript, Tailwind CSS, Pinecone, Genkit, and Gemini API**, this project demonstrates how Retrieval-Augmented Generation (RAG)-like systems can be applied to provide focused, context-aware assistance for NGO operations.
