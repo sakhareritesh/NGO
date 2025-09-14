@@ -63,4 +63,11 @@ Clone the repo and install dependencies:
 git clone https://github.com/sakhareritesh/NGO.git
 cd NGO
 npm install legacy --peer-deps
-npm run dev  to run a project 
+npm run dev  to run a project
+
+
+PINECONE_API_KEY="pcsk_4mgyRP_KxLKUbEzY3Dq1o9AMpyMa81oBRqLBKiC2cVHG1rKAH8SkeYVrJGUTk3aF7C2AWj"
+PINECONE_INDEX=ngo-24o0m9b
+PINECONE_HOST="https://ngo-24o0m9b-24o0m9b.svc.aped-4627-b74a.pinecone.io"
+GEMINI_API_KEY=AIzaSyDhsrS53fXVwEKQXgsVtC38I9dLSeMjK74
+
